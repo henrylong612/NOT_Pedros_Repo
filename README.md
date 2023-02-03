@@ -1,5 +1,4 @@
-# Pytest Lab
-[![](https://github.com/henrylong612/NOT_Pedros_Repo/workflows/tests/badge.svg)](https://github.com/henrylong612/NOT_Pedros_Repo/actions?query=workflow%3Atests)
+# Pytest Lab [![](https://github.com/henrylong612/NOT_Pedros_Repo/workflows/tests/badge.svg)](https://github.com/henrylong612/NOT_Pedros_Repo/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
